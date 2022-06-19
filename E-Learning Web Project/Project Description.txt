@@ -1,0 +1,14 @@
+The title of the project is 'Exceptional Learning' and this is an E-Learning Website.
+I have used XAMPP v3.3.0 to run the project locally on my PC.
+I have used Sublime Text to edit the code.
+I have used Git Bash to upload the code.
+I have used HTML,CSS and JS code for front-end and PHP code for back-end and launched the project using XAMPP on my PC.
+
+The email and password for the admin is given below : 
+email : abc@gmail.com
+password : arkadeeproy
+
+After launcing XAMPP, please go to Google.com and type : http://localhost/learning/gotoep/  to open the admin page and please type : http://localhost/learning/index.php  to open the front page of the website.
+
+Thank you
+~Arkadeep Roy
